@@ -6,11 +6,11 @@ Fine-tuning [SKT-KoGPT2](https://github.com/SKT-AI/KoGPT2) for Korean Sentiment 
 
 This repository is KoGPT2 fine-tuning for binary-classification (Korean).  
 
-## Why we need this repo?
+## Why you need this repo?
 
 In KoGPT2 repository, there is no solution to fine-tuning for NSMC task (text classification). 
 
-## Where you modify?
+## Where I modify?
 
 - Pooler
 
