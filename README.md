@@ -22,7 +22,7 @@ indexing pooler output for the way of sentence representation in text classifica
 I refer to [Huggingface-transformers](https://huggingface.co/transformers/) for getting the hint that how to set up
 GPT2 functions' arguments. 
 
-- koBERT to koGPT2
+- KoBERT to KoGPT2
 
 Most of the code is very similar to koBert. This is because, I made the maximum use the original BERT-pytorch frame.
 
