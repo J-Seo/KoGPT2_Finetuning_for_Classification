@@ -46,6 +46,6 @@ Colab-pro (for gpu)
 
 - Colab link
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/seojaehyung/KoGPT2_Finetuning_for_Classification/blob/master/kogpt2_script/gpt2_text_classification_finetune_torch.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/J-Seo/KoGPT2_Finetuning_for_Classification/blob/master/kogpt2_script/gpt2_text_classification_finetune_torch.ipynb)
 
 With this link, you just download this repository and upload it in your own google drive path. 
